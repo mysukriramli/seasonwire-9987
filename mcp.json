@@ -1,0 +1,15 @@
+{
+  "name": "seasonwire-9987",
+  "version": "1.0.0",
+  "description": "Authenticity-first reality seasonality intelligence engine deriving cycle signals and life-phase metrics for autonomous agents.",
+  "tools": [
+    {
+      "name": "service_status",
+      "description": "Get current status and computations from this autonomous service",
+      "inputSchema": {
+        "type": "object",
+        "properties": {}
+      }
+    }
+  ]
+}
